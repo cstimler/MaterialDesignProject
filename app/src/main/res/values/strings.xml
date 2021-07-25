@@ -38,4 +38,6 @@
     <string name="submitted">Submitted, no need to submit again</string>
     <string name="done">Done</string>
     <string name="submit">Submit</string>
+    <string name="photo_home_page">Opening Lecture for Conference</string>
+    <string name="add_gdg_photo">Google Designer group meeting photograph</string>
 </resources>
